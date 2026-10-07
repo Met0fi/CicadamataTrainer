@@ -1,6 +1,0 @@
-config_version=5
-
-[application]
-
-config/name="cicada-trainer-tests"
-run/main_scene="res://test_runner.tscn"
