@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>CicadamataTrainer</AssemblyName>
+    <RootNamespace>CicadamataTrainer</RootNamespace>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>assets\cicada.ico</ApplicationIcon>
+    <InvariantGlobalization>false</InvariantGlobalization>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\mod\cicada_trainer.gd" LogicalName="cicada_trainer.gd" />
+    <EmbeddedResource Include="assets\banner.png" LogicalName="banner.png" />
+    <EmbeddedResource Include="assets\bitpop.otf" LogicalName="bitpop.otf" />
+    <EmbeddedResource Include="assets\vcr_osd_mono.ttf" LogicalName="vcr_osd_mono.ttf" />
+    <EmbeddedResource Include="assets\sounds\toggle_on.wav" LogicalName="sound_toggle_on.wav" />
+    <EmbeddedResource Include="assets\sounds\toggle_off.wav" LogicalName="sound_toggle_off.wav" />
+    <EmbeddedResource Include="assets\sounds\panic.wav" LogicalName="sound_panic.wav" />
+    <EmbeddedResource Include="assets\sounds\all_on.wav" LogicalName="sound_all_on.wav" />
+    <EmbeddedResource Include="assets\sounds\teleport.wav" LogicalName="sound_teleport.wav" />
+  </ItemGroup>
+
+</Project>
