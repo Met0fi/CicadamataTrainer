@@ -1,6 +1,6 @@
 # CICADAMATA: Trainer (+13) [1.0.0] {M:/Tofi4}
 
-Trainer by [M:/Tofi4](https://met0fi.github.io/Siteportfoliomt/). Windows application with 13 controls, custom key binds and an in-game menu.
+Trainer by [M:/Tofi4](https://met0fi.github.io/Siteportfoliomt/).
 
 ![CICADAMATA Trainer](docs/trainer.png)
 
@@ -36,11 +36,13 @@ These functions are also available in the EXE application. Press **Esc** to fini
 
 ## Binds
 
-Open **Settings**, click **CLICK ON ME** next to a function and press the key you want to use. **Esc** cancels key capture.
+Open **Settings**, click **CLICK ON ** next to a function and press the key you want to use. **Esc** cancels key capture.
 
 ## Antivirus behavior
 
-The trainer loads a Godot script into the game, which may trigger antivirus detections. Check the downloaded archive before running it. A detection count alone does not prove that a file is safe.
+Antiviruses may complain about the trainer, since it's a Godot-trainer injector. On VirusTotal, only two corporate antiviruses flag it (Arctic Wolf and SecureAge), where the detection rules are incredibly strict and extend even to harmless trainers. 
+
+VT: https://www.virustotal.com/gui/file/c5428445d20d8aa7675675bbc6afef6bbc9c37c1048626b28d51de04875da02c
 
 ## Source and build
 
