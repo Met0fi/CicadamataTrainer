@@ -1,4 +1,4 @@
-# CICADAMATA Trainer (+13)
+# CICADAMATA: Trainer (+13) [1.0.0] {M:/Tofi4}
 
 Trainer by [M:/Tofi4](https://met0fi.github.io/Siteportfoliomt/). Windows application with 13 controls, custom key binds and an in-game menu.
 
