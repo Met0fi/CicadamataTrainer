@@ -36,7 +36,7 @@ These functions are also available in the EXE application. Press **Esc** to fini
 
 ## Binds
 
-Open **Settings**, click **CLICK ON ** next to a function and press the key you want to use. **Esc** cancels key capture.
+Open **Settings**, click **CLICK ON** next to a function and press the key you want to use. **Esc** cancels key capture.
 
 ## Antivirus behavior
 
