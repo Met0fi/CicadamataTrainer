@@ -32,7 +32,7 @@ Click **Eject trainer** to remove the installed trainer files. If the game is ru
 | F12 | Kill all enemies |
 | End | Teleport to level exit |
 
-These functions are also available in the EXE application. Press **Esc** to finish editing the HUD.
+These functions are also available in the EXE application. 
 
 ## Binds
 
